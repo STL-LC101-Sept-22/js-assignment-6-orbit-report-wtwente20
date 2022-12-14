@@ -12,3 +12,7 @@
 .counts span {
 	float: right;
 }
+
+h3 {
+  text-decoration: underline;
+}

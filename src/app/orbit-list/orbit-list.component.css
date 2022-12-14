@@ -26,3 +26,11 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+tr:nth-child(even) {  
+  background-color: #75a88a;  
+}
+
+tr:nth-child(odd) {  
+  background-color: #8590d1;  
+}
